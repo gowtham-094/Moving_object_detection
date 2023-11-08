@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#302D2B",
+        "titleBar.activeBackground": "#433F3D",
+        "titleBar.activeForeground": "#FAF9F9"
+    },
+    "cSpell.words": [
+        "absdiff",
+        "imutils"
+    ]
+}
